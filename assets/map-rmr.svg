@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+<rect width="900" height="560" rx="28" fill="#152b49"/>
+<path d="M80 420 C170 360 180 300 260 320 C320 336 330 250 390 260 C445 270 450 190 520 210 C585 230 620 165 690 200 C750 230 775 300 830 330 L790 450 C690 470 620 500 520 470 C430 445 330 500 240 470 C175 448 120 470 80 420Z" fill="#1f3b5d" stroke="#4b6c8f" stroke-width="3"/>
+<g fill="#ffd000" stroke="#071a33" stroke-width="4">
+ <circle cx="390" cy="300" r="13"/><circle cx="315" cy="350" r="11"/><circle cx="500" cy="260" r="11"/><circle cx="590" cy="340" r="11"/><circle cx="670" cy="275" r="11"/><circle cx="235" cy="410" r="10"/>
+</g>
+<g font-family="Arial" font-size="18" font-weight="700" fill="#f5f8fb"><text x="410" y="292">Recife</text><text x="335" y="344">Olinda</text><text x="520" y="254">Paulista</text><text x="610" y="334">Jaboatão</text><text x="690" y="269">Camaragibe</text><text x="135" y="408">São Lourenço</text></g>
+<path d="M390 300 L315 350 L235 410 M390 300 L500 260 L590 340 L670 275" fill="none" stroke="#ffd000" stroke-width="3" stroke-dasharray="7 8" opacity=".75"/>
+<rect x="38" y="38" width="280" height="62" rx="31" fill="#f5f8fb"/><circle cx="70" cy="69" r="8" fill="#2dd4bf"/><text x="90" y="76" font-family="Arial" font-size="18" font-weight="700" fill="#10233b">COBERTURA RMR ATIVA</text>
+</svg>

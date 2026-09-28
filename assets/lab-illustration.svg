@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#eef5f8"/><stop offset="1" stop-color="#c9d7dc"/></linearGradient>
+ <linearGradient id="desk" x1="0" x2="1"><stop stop-color="#14253e"/><stop offset="1" stop-color="#253a58"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#061426" flood-opacity=".25"/></filter>
+</defs>
+<rect width="900" height="680" rx="34" fill="url(#bg)"/>
+<g opacity=".35" stroke="#8aa1aa"><path d="M0 120h900M0 240h900M0 360h900M0 480h900M150 0v680M300 0v680M450 0v680M600 0v680M750 0v680"/></g>
+<g filter="url(#shadow)">
+ <rect x="75" y="120" width="300" height="190" rx="18" fill="#142235"/>
+ <rect x="96" y="143" width="258" height="132" rx="10" fill="#071a2f" stroke="#4a6583"/>
+ <path d="M110 230 C140 180 170 260 205 205 S275 230 330 170" fill="none" stroke="#ffd000" stroke-width="5"/>
+ <circle cx="120" cy="165" r="6" fill="#2dd4bf"/><circle cx="140" cy="165" r="6" fill="#ffd000"/>
+ <text x="110" y="300" font-family="Arial" font-size="18" fill="#d9e4ed">OSCILOSCÓPIO • BANCADA SMD</text>
+ <rect x="505" y="120" width="310" height="175" rx="18" fill="#f8fafb" stroke="#aabcc3"/>
+ <rect x="530" y="150" width="120" height="75" rx="10" fill="#dce8eb" stroke="#718a96"/>
+ <path d="M545 205h90M545 188h90M560 165v58M590 165v58M620 165v58" stroke="#91a6af"/>
+ <rect x="675" y="150" width="110" height="75" rx="10" fill="#17283f"/>
+ <circle cx="705" cy="188" r="17" fill="#ffd000"/><circle cx="755" cy="188" r="17" fill="#2dd4bf"/>
+</g>
+<g filter="url(#shadow)">
+ <rect x="70" y="350" width="760" height="245" rx="26" fill="url(#desk)"/>
+ <rect x="115" y="390" width="270" height="145" rx="18" fill="#0b1a2d" stroke="#39506b"/>
+ <rect x="142" y="417" width="215" height="85" rx="10" fill="#091222" stroke="#61788f"/>
+ <path d="M158 475h45l12-30 14 43 18-63 16 40 35-5 14-22 28 37" fill="none" stroke="#2dd4bf" stroke-width="4"/>
+ <text x="155" y="528" font-family="Arial" font-size="15" fill="#b7c7d6">DIAGNÓSTICO • 24V</text>
+ <g transform="translate(435 397)">
+  <rect width="330" height="125" rx="18" fill="#e9eef0"/>
+  <rect x="25" y="22" width="280" height="80" rx="12" fill="#c8d7dc"/>
+  <g stroke="#233b52" stroke-width="4" fill="none"><path d="M55 50h65v35H55zM150 50h70v35h-70zM250 50h30"/><path d="M75 50v-18M185 50v-18M265 50v-18"/></g>
+  <circle cx="86" cy="68" r="8" fill="#ffd000"/><circle cx="185" cy="68" r="8" fill="#2dd4bf"/>
+ </g>
+ <g transform="translate(495 545)"><rect width="260" height="26" rx="13" fill="#ffd000"/><text x="20" y="19" font-family="Arial" font-weight="700" font-size="13" fill="#071a33">MICROSERVICE ELETRÔNICA</text></g>
+</g>
+<g opacity=".95"><circle cx="70" cy="75" r="18" fill="#ffd000"/><path d="M62 75h16M70 67v16" stroke="#071a33" stroke-width="3" stroke-linecap="round"/></g>
+</svg>
